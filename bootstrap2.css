@@ -1,0 +1,11 @@
+.hero-section {
+    background-image: url(./images/heroImg.png);
+    background-size: cover;
+    background-position: bottom;
+}
+.opacity {
+    background-color: rgba(0, 0, 0, 0.151);
+}
+/* .col-lg-4 {
+    border: 1px red solid;
+} */
