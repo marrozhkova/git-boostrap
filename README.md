@@ -42,3 +42,10 @@ It’s not a full-featured app — it’s a **learning sandbox** for building st
 git clone https://github.com/marrozhkova/git-boostrap.git
 cd git-boostrap
 # Open index.html in your browser
+```
+## 👤 Author
+
+**Maryna Rozhkova**  
+Frontend Developer | Learner by Heart  
+📫 [mar.rozhkova@gmail.com](mailto:mar.rozhkova@gmail.com)  
+🌐 [Portfolio](https://marrozhkova-portfolio.vercel.app/)
